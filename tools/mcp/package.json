@@ -1,0 +1,14 @@
+{
+  "name": "novel-writing-workflow",
+  "version": "1.0.0",
+  "description": "《剑道通神》AI辅助写作MCP服务 - 7步流程控制",
+  "main": "mcp_server.js",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "zod": "^3.22.0"
+  },
+  "scripts": {
+    "start": "node mcp_server.js"
+  }
+}

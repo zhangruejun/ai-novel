@@ -1,0 +1,21 @@
+{
+  "project_root": ".",
+  "chapters_dir": "chapters",
+  "drafts_dir": "drafts/vol01",
+  "outlines_dir": "outlines/vol01",
+  "prompts_dir": "prompts/vol01",
+  "reviews_dir": "reviews",
+  "references_dir": "references",
+  "templates_dir": "templates",
+  "logs_dir": "logs",
+  "min_scenes": 2,
+  "max_scenes": 4,
+  "min_words_per_scene": 800,
+  "max_words_per_scene": 1200,
+  "min_words_per_chapter": 2800,
+  "max_words_per_chapter": 3200,
+  "forbidden_words_file": "references/禁用语列表.md",
+  "character_cards_file": "references/角色状态卡.md",
+  "foreshadowing_file": "references/伏笔追踪表.md",
+  "outline_template": "templates/章级细纲模板.md"
+}
