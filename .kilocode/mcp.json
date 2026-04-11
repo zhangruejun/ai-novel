@@ -1,1 +1,0 @@
-{"mcpServers":{"novel-workflow":{"command":"node","args":["E:\\Novel\\ai-novel\\tools\\mcp\\mcp_server.js"],"alwaysAllow":["generate_prompts","generate_drafts","assemble_chapter","review_chapter","finalize_chapter","prepare_work"],"disabled":true,"disabledTools":["prepare_work","make_outline"]}}}
